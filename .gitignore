@@ -11,3 +11,16 @@ models/__pycache__/base_model.cpython-38.pyc
 models/__pycache__/amenity.cpython-38.pyc
 models/__pycache__/__init__.cpython-38.pyc
 web_dynamic/__pycache__/1-hbnb.cpython-38.pyc
+web_dynamic/__pycache__/4-hbnb.cpython-38.pyc
+api/v1/views/__pycache__/users.cpython-38.pyc
+api/v1/views/__pycache__/states.cpython-38.pyc
+api/v1/views/__pycache__/places.cpython-38.pyc
+api/v1/views/__pycache__/places_reviews.cpython-38.pyc
+api/v1/views/__pycache__/places_amenities.cpython-38.pyc
+api/v1/views/__pycache__/index.cpython-38.pyc
+api/v1/views/__pycache__/cities.cpython-38.pyc
+api/v1/views/__pycache__/amenities.cpython-38.pyc
+api/v1/views/__pycache__/__init__.cpython-38.pyc
+api/v1/__pycache__/app.cpython-38.pyc
+api/v1/__pycache__/__init__.cpython-38.pyc
+api/__pycache__/__init__.cpython-38.pyc
